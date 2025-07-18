@@ -19,7 +19,7 @@
     "dotenv": "^16.4.7",
     "express": "^4.21.2",
     "http-errors": "^2.0.0",
-    "morgan": "^1.10.0",
+    "morgan": "^1.10.1",
     "redis": "^4.7.0",
     "redis-om": "^0.4.7"
   }
