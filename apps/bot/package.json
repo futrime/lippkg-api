@@ -11,13 +11,13 @@
     "typescript": "^5.8.2"
   },
   "dependencies": {
-    "@types/semver": "^7.5.8",
+    "@types/semver": "^7.7.1",
     "consola": "^3.4.2",
     "dotenv": "^16.4.5",
     "octokit": "^4.1.2",
     "redis": "^4.7.0",
     "redis-om": "^0.4.7",
-    "semver": "^7.7.1",
+    "semver": "^7.7.2",
     "toml": "^3.0.0"
   }
 }
